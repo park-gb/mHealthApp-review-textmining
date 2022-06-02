@@ -5,7 +5,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 1. 개요
-본 프로젝트는 건강관리 앱 리뷰 텍스트마이닝을 통해 고객 니즈를 도출하고, 이를 바탕으로 건강관리 앱의 디자인 전략을 제안합니다. 국내 구글 플레이 스토어에서 건강관리 앱 424개에서 리뷰 54만 건을 수집하고, LDA 토픽 모델링과 동시출현 단어 네트워크 분석을 수행합니다.
+본 프로젝트는 건강관리 앱 리뷰 텍스트마이닝을 통해 고객 니즈를 도출하고, 이를 바탕으로 건강관리 앱의 디자인 전략을 제안합니다. 국내 구글 플레이 스토어에서 건강관리 앱 424개에서 리뷰 54만 건을 수집하고, LDA 토픽 모델링과 동시 출현 단어 네트워크 분석을 수행합니다.
 
 ## 2. 데이터셋
 - 한국 구글 플레이 스토어 내 건강관리 앱 424개에서 리뷰 54만 건 수집
@@ -17,7 +17,7 @@
 - 상세 설명: [개인 블로그 포스팅 "LDA 토픽 모델링 개념 설명"](https://heytech.tistory.com/328)
 
 ### 2) 동시 출현 단어 네트워크 분석
-동시출현 단어 네트워크 분석(Word Co-occurrence Network Analysis)은 문서 데이터에서 동시에 출현한 단어끼리의 연결망 분석을 통해 특정 단어 간의 연관성을 분석하는 텍스트마이닝 방법론입니다[(Zhang et al., 2018)](https://aclanthology.org/W18-1702/). 단어는 문장에서 어떤 단어와 함께 사용되었는지에 따라 의미가 결정됩니다. 따라서, 문장에서 동시에 출현한 단어 간의 연결망 분석은 해당 단어가 사용된 맥락을 파악하는 데 효과적입니다([Chae et al., 2015](https://www.koreascience.or.kr/article/JAKO201502152089090.page), [Cho et al., 2016](https://www.koreascience.or.kr/article/JAKO201625058596402.page), [Kim et al., 2016](http://www.ndsl.kr/soc_img/society/kits/OTSBB9/2016/v15n3/OTSBB9_2016_v15n3_157.pdf)). 이러한 장점 덕분에 동시 출현 단어 네트워크 분석을 활용하여 온라인 내 방대한 양의 사용자 리뷰 데이터에서 사용자 니즈, 서비스 이용경험을 분석하려는 연구가 활발히 진행되고 있습니다.
+동시 출현 단어 네트워크 분석(Word Co-occurrence Network Analysis)은 문서 데이터에서 동시에 출현한 단어끼리의 연결망 분석을 통해 특정 단어 간의 연관성을 분석하는 텍스트마이닝 방법론입니다[(Zhang et al., 2018)](https://aclanthology.org/W18-1702/). 단어는 문장에서 어떤 단어와 함께 사용되었는지에 따라 의미가 결정됩니다. 따라서, 문장에서 동시에 출현한 단어 간의 연결망 분석은 해당 단어가 사용된 맥락을 파악하는 데 효과적입니다([Chae et al., 2015](https://www.koreascience.or.kr/article/JAKO201502152089090.page), [Cho et al., 2016](https://www.koreascience.or.kr/article/JAKO201625058596402.page), [Kim et al., 2016](http://www.ndsl.kr/soc_img/society/kits/OTSBB9/2016/v15n3/OTSBB9_2016_v15n3_157.pdf)). 이러한 장점 덕분에 동시 출현 단어 네트워크 분석을 활용하여 온라인 내 방대한 양의 사용자 리뷰 데이터에서 사용자 니즈, 서비스 이용경험을 분석하려는 연구가 활발히 진행되고 있습니다.
 
 ## 📝 License
 ```
