@@ -9,7 +9,7 @@
 
 ## 2. 데이터셋
 - 웹 크롤링을 통해 한국 구글 플레이 스토어 내 건강관리 앱에서 리뷰 54만 건 수집
-- [구글 플레이 스토어 리뷰 수집 크롤러]()
+- 데이터 수집 방법: 구글 플레이 스토어 리뷰 수집 크롤러 자체 개발([Github](https://github.com/park-gb/playstore-review-crawler)/[블로그](https://heytech.tistory.com/293))
 
 ## 3. 분석 방법론
 ### 1) LDA 토픽 모델링
