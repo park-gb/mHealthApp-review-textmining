@@ -15,11 +15,16 @@
 - 상세 설명: [개인 블로그 포스팅 "LDA 토픽 모델링 개념 설명"](https://heytech.tistory.com/328)
 
 ## 4. LDA 토픽 모델링 결과
-![result_pos](https://user-images.githubusercontent.com/80144296/171663295-0aa92165-2a78-4cc5-9c04-a579594c7b74.gif)
-긍정적 리뷰의 토픽 모델링 결과
+<div align="center">
 
-![result_neg](https://user-images.githubusercontent.com/80144296/171663441-abf01f2d-dde8-40aa-b7da-bc326a3d7a7d.gif)
-부정적 리뷰의 토픽 모델링 결과
+  ![result_pos](https://user-images.githubusercontent.com/80144296/171663295-0aa92165-2a78-4cc5-9c04-a579594c7b74.gif)
+
+  그림 1. 긍정적 리뷰의 토픽 모델링 결과   
+
+  ![result_neg](https://user-images.githubusercontent.com/80144296/171663441-abf01f2d-dde8-40aa-b7da-bc326a3d7a7d.gif)
+
+  그림 2. 부정적 리뷰의 토픽 모델링 결과   
+</div>
 
 ## 📝 License
 ```
