@@ -3,7 +3,9 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-<img width="620" alt="src" src="https://user-images.githubusercontent.com/80144296/172274411-fdb90d25-a880-4fdb-8877-559d1bb09122.png">
+<div align="center">
+  <img width="620" alt="src" src="https://user-images.githubusercontent.com/80144296/172274411-fdb90d25-a880-4fdb-8877-559d1bb09122.png">
+</div>
 
 ## 1. 개요
 본 프로젝트는 건강관리 앱 리뷰 텍스트마이닝을 통해 고객 니즈를 도출하고, 이를 바탕으로 건강관리 앱의 디자인 전략을 제안합니다. 국내 구글 플레이 스토어에서 건강관리 앱 424개에서 리뷰 54만 건을 수집하고, LDA 토픽 모델링을 통해 심층적으로 고객 니즈를 분석합니다.
